@@ -1,0 +1,165 @@
+.container{
+    background-color: white
+    width: 100%;
+    height:800px;
+    display: flex;
+}
+.header{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+nav a {
+     font-weight: 600;
+    padding-right: 10px;
+    
+}
+.logod{
+    background-color: rgb(171, 144, 196);
+    height: 50px;
+    border-radius: 10px;
+    padding: 10px;
+}
+.pagina{
+    
+    height: 400px;
+    width: 500px;
+    margin:20px;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 20px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    border: 4px solid white;
+    
+    
+}
+
+a {
+    text-decoration: none;
+    color: rgb(245, 245, 245);
+}
+
+.box1{
+    background-color:
+    width: 400px;
+    height: 200px;
+    position: relative;
+    left: 350px;
+    margin-top: 15px;
+    box-shadow: 40px solid white;
+    
+}
+.caj1{
+    display: flex;
+}
+.caj2{
+    display: flex;
+
+}
+.tik1{
+    height: 50px;
+    width: 90px;
+    margin: 10px;
+}
+.tik2{
+    height: 50px;
+    width: 90px;
+    margin: 10px;
+}
+.pers1{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+.pers2{
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+}
+.box2{
+    
+    position: relative;
+    top: 250px;
+    border-radius: 20px;
+    width: 400px;
+    height: 400px;
+    box-shadow: 40px solid white;
+    margin-top: 30px;
+    left: 130px;
+    
+}
+.cont1{
+display: flex;
+margin: 15px;
+}
+.cont2{
+display: flex;
+margin: 15px;
+}
+.cont3{
+display: flex;
+margin: 15px;
+}
+.cont4{
+    margin: 15px;
+display: flex;
+}
+.cont5{
+    margin: 15px;
+display: flex;
+}
+.amigo{
+    
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.amigo2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.amigo3{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.amigo4{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.amigo5{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.box3{
+    padding: 20px;
+    width: 400px;
+    height: 200px;
+    position: relative;
+    bottom: 400px;
+    
+}
+#bnt{
+    background-color: rgb(204, 169, 236);
+    color: white;
+    border-radius: 6px;
+    height: 35px;
+    
+
+}
+
+.btn2{
+    color: blue;
+}
